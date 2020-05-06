@@ -1,6 +1,5 @@
-package com.yrlapps.randomasiannamegenerator;
 
-///////ALL OF THIS IS REFERENCED FROM THE JAKAROMA PROJECT BY NICOLAS RAOUL
+/////// REFERENCED FROM THE JAKAROMA PROJECT BY NICOLAS RAOUL
 import java.util.HashMap;
 import java.util.Map;
 public class KanaToRomaji {
